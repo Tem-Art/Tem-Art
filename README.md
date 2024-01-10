@@ -19,11 +19,9 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=Google%20Analytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=Google%20Ads&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=Google%20Tag%20Manager&logoColor=white" />
-  <img src="" />
-  <img src="" />
-  <img src="" />
-  <img src="" />
-  <img src="" />
-  
+  <img src="https://img.shields.io/badge/SimilarWeb-092540?style=for-the-badge&logo=SimilarWeb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
+ 
 
 </p>

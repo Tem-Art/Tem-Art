@@ -29,5 +29,14 @@ ________________________________________________________________________________
 2. [Статистика](https://netology.ru/sharing/695e37fda08a3ca80646a80db858187f?utm_source=social&utm_campaign=certificate_lms)
 
 __________________________________________________________________________________________________________________________
-Портфолио:
-1. https://drive.google.com/drive/u/0/folders/1dyvGNnkGeWieHD1P1aHsOYFHDoWdZw96
+
+
+<p align="center">
+  <a href="https://drive.google.com/drive/u/0/folders/1dyvGNnkGeWieHD1P1aHsOYFHDoWdZw96" target="_blank">
+    <img src="https://img.shields.io/badge/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE-2D8C3C?style=for-the-badge&logo=amp&logoColor=white" />
+  </a>
+    <a href="https://drive.google.com/file/d/11fK-S4p4yM3kvGc0E-f5h207jKm2I3cQ/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-FFB71B?style=for-the-badge&logo=angular&logoColor=black" />
+  </a>
+</p>
+

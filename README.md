@@ -16,5 +16,14 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Excel-darkgreen?style=for-the-badge&logo=Microsoft%20Excel" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=Google%20Analytics&logoColor=white" />
+  <img src="" />
+  <img src="" />
+  <img src="" />
+  <img src="" />
+  <img src="" />
+  <img src="" />
+  <img src="" />
   
+
 </p>

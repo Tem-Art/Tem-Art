@@ -4,9 +4,10 @@
 Изучаю Data analysis.
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/tem-art/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/tem-art/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://t.me/tem_art" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   </p>
+<br>
 <p align="center"><b>Skills</b>
   
 __________________________________________________________________________________________________________________________

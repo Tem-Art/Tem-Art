@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/tem-art/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://t.me/tem_art" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   </p>
-<p align="center"><b>Some skills</b>
+<p align="center"><b>Skills</b>
   
 __________________________________________________________________________________________________________________________
 <p align="center">
@@ -22,6 +22,9 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/SimilarWeb-092540?style=for-the-badge&logo=SimilarWeb&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
- 
-
 </p>
+
+__________________________________________________________________________________________________________________________
+Сертификаты:
+1. [SQL](https://netology.ru/sharing/332d4cc3ad9d239671372daddeba3659?utm_source=social&utm_campaign=certificate_lms)
+2. [Статистика](https://netology.ru/sharing/695e37fda08a3ca80646a80db858187f?utm_source=social&utm_campaign=certificate_lms) 

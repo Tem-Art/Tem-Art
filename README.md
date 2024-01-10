@@ -8,9 +8,8 @@
   <a href="https://t.me/tem_art" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   </p>
 <br>
-<p align="center"><b>Skills</b>
-  
-__________________________________________________________________________________________________________________________
+<h2 align="center" style="font-size: 40px;">Skills</h2>
+
 <p align="center">
   
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
